@@ -183,6 +183,16 @@ background-size: cover;
   margin-left: 15px;
   resize: none;
 }
+.attendance-group {
+  display: flex;
+}
+.attendance input {
+  width: 20px;
+  margin: 0 24px 0 2px;
+}
+.attendance .last-radio {
+  margin: 0 2px;
+}
 .form button {
   width: 100%;
   background-color: #ddd;
