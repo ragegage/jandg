@@ -62,7 +62,6 @@ h1.right, h2.right, p.right {
   left:70%
 }
 .landing {
-  height: 800px;
   height: 100vh;
   width: 100vw;
   background-image: url(eng_bw.jpg);
@@ -287,6 +286,7 @@ background-size: cover;
 
 @media only screen and (max-width: 767px) {
   .landing {
+    height: 800px;
     background-position: top right -100px;
   }
   .j-and-g {
