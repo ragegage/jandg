@@ -284,9 +284,14 @@ background-size: cover;
   margin-right: 8px;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-device-width: 767px) {
   .landing {
     height: 800px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .landing {
     background-position: top right -100px;
   }
   .j-and-g {
