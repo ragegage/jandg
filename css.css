@@ -316,4 +316,7 @@ background-size: cover;
   .location-description p, .img-card-text-p {
     padding: 15px 10px;
   }
+  .gallery {
+    display: none;
+  }
 }
