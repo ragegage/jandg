@@ -158,6 +158,10 @@ background-size: cover;
   padding: 15px 0;
   margin-top: 15px;
 }
+.location-description ul {
+  margin-left: 40px;
+  margin-top: 10px;
+}
 .story {
   display: flex;
   flex-direction: column;
