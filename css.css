@@ -149,7 +149,7 @@ background-size: cover;
 .location-description h2 + p {
     border-top: 3px solid #eecb87;
 }
-.location-description p {
+.location-description p, .location-description div {
   border-bottom: 3px solid #eecb87;
   font-family: Libre Baskerville, 'Libre Baskerville', sans-serif;
   font-weight: 400;
