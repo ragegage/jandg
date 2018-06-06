@@ -130,6 +130,11 @@ background-size: cover;
   margin-top: 15px;
   text-align: center;
 }
+.date p + p {
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 5px;
+}
 .location {
   display: flex;
   flex-direction: column;
